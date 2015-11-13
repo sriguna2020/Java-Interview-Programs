@@ -8,7 +8,7 @@ public class ConversionTime {
 	public static void main(String[] args) {
 		
 		Scanner sc =new Scanner(System.in);
-          //String date=sc.nextLine();
+          //Strings date=sc.nextLine();
 		String ss="04:59:59AM";
 		String conDate="";
 		String H="";
