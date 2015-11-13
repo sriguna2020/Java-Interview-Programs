@@ -1,3 +1,7 @@
 This is simple testing file for pull command!!!
+<<<<<<< HEAD
 This seconde line is added to see the changes by local file to rempote file.
 Vishwa
+=======
+baghel
+>>>>>>> ef55463828c8ac744e2689c545ccdb9f01743800
